@@ -78,7 +78,3 @@ function fearNotLetter(str) {
     }
     return undefined;
   }
-  
-  // test here
-  fearNotLetter("abce");
-  C
